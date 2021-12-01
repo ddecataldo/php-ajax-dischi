@@ -9,6 +9,6 @@
         </div>
     </div>
 
-    <?php var_dump($album["title"]); ?>
+    
 
 </div>    
