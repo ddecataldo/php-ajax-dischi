@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+/* NavBar */
+.bg-light {
+    background-color: #2b3a46 !important;
+}
+.logo{
+    width: 30px;
+}
+
+/* Main */
+main{
+    background-color: #192d3b;
+}
+
+/* Card */
+.card{
+    padding:25px;
+    background-color: #2b3a46;
+    color: #fff;
+}
+.card-body{
+    padding: 12px 0 0;
+}
+
+.card-body .card-title{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.card-body p{
+    margin-bottom: 0;
+}
+
+.card-body .card-descrption,
+.card-body .card-data{
+    color: #808080;
+}
